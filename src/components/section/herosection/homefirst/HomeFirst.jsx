@@ -21,11 +21,11 @@ const HomeFirst = () => {
           fontWeight: 800,
           fontSize: "5rem",
           color: "#fff",
-          margin: 0,
+          margin: 10,
           alignSelf: "flex-start",
           textAlign: "left",
           position: "relative",
-          bottom: "4rem",
+          bottom: "14rem",
           left: "10rem",
         }}
       >

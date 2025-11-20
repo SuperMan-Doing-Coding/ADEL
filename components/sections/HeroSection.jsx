@@ -186,7 +186,7 @@ export default function HeroSection() {
                   delay: 0.5,
                   ease: "easeInOut",
                 }}
-                className="z-50 absolute hidden p-6 w-64 h-40 bg-white rounded-xl border-gray-100 shadow-2xl -bottom-10 -right-10 border md:block"
+                className="z-50 absolute p-6 w-64 h-40 bg-white rounded-xl border-gray-100 shadow-2xl -bottom-10 -right-3 border md:block"
               >
                 <motion.div
                   initial={{ opacity: 0, y: 20 }}
